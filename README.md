@@ -10,4 +10,4 @@ Green: In correct position 3 Controls for visualizations
 2.2) Data size () 
 2.3) Generation of new data (Randomly generate new data).
 Time and Space complexity of algorithm being visualized.
-Take a look at live version: https://RBITARY.github.io/vc/
+Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
